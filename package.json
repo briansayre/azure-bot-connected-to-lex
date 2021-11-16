@@ -16,7 +16,7 @@
         "url": "https://github.com"
     },
     "dependencies": {
-        "aws-sdk": "^2.684.0",
+        "aws-sdk": "^2.814.0",
         "botbuilder": "~4.8.0",
         "buffer": "^5.6.0",
         "bufferutil": "^4.0.1",
